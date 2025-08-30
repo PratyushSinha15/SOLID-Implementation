@@ -1,0 +1,7 @@
+Problem:
+Write a class Report that:
+Stores some report text.
+Prints the report text.
+Saves the report to a file.
+
+👉 Refactor it so that each class has only one reason to change.
