@@ -1,0 +1,5 @@
+We want a User class that:
+
+1.Stores user data (name, email, password).
+2.Handles password encryption.
+3.Handles saving the user to a database (we’ll simulate with a text file or in-memory list).
