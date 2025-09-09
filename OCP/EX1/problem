@@ -1,0 +1,18 @@
+Open/Closed Principle (OCP)
+
+1. Definition
+
+OCP (Open/Closed Principle):
+“Software entities (classes, modules, functions) should be open for extension but closed for modification.”
+
+Matlab:
+        New features → extend (add new classes/code).
+        Existing working code → don’t modify
+
+2. Problem Statement
+
+We need a Notification System that can send messages on multiple platforms:
+    1.Email
+    2.SMS
+    3.WhatsApp
+Future me aur platforms add ho sakte hain (Slack, Push notification, etc).
